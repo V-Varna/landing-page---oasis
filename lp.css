@@ -1,0 +1,71 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("Neutral\ Minimalist\ Elegant\ Interior\ Zoom\ Virtual\ Background.png");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width:100%;
+}
+
+header {
+    background-color: #4eac61;
+    text-align: center;
+    padding: 20px;
+    color: #000000;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+.Enlight-your-House {
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.Home-Appliances {
+    max-width: 500px;
+    margin: auto;
+    background-color: #aa8e02e8;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+}
+
+
+.description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.description h3 {
+    color: #e44d26;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #e44d26;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
